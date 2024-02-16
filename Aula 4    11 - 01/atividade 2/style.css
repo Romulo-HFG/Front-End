@@ -1,0 +1,15 @@
+h2 {
+  background: gray;
+}
+.cachorro1 {
+  color: rgba(255, 255, 255, 1);
+}
+.cachorro2 {
+  color: rgba(0, 0, 0, 0.6);
+}
+.cachorro3 {
+  color: rgba(0, 0, 0, 0.4);
+}
+.cachorro4 {
+  color: rgba(255, 255, 0, 1);
+}
