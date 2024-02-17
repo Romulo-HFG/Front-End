@@ -1,0 +1,26 @@
+ /*body {
+  margin: 10px;
+} 
+*/
+.box {
+  background: #f8a34f;
+  width: 200px;
+  height: 100px;
+  padding: 20px;
+  border: 5px solid #d77009;
+  margin: 10px;
+  text-align: center;
+  border-radius: 20%;
+}
+
+.box2 {
+  background: lightgreen;
+  width: 200px;
+  height: 100px;
+  padding: 20px;
+  border: 5px solid green;
+  margin: 10px;
+  text-align: center;
+  border-radius: 20%;
+}
+
