@@ -1,0 +1,22 @@
+body {
+  margin: 0px;
+}
+
+h1,
+p {
+  margin: 0px;
+}
+
+p {
+  text-align: justify;
+  font-family: "Teko", sans-serif;
+}
+h1 {
+  font-family: "Cinzel Decorative", serif;
+}
+
+
+
+h2 {
+  font-family: "Sail", system-ui;
+}
