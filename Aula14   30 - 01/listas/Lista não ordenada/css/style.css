@@ -1,0 +1,14 @@
+* {
+  margin: 0px;
+}
+
+ul {
+  list-style: none;
+  padding: 0px;
+}
+.nao-ordenada {
+  background: orange;
+}
+.ordenada {
+  background: rgb(147, 11, 226);
+}
