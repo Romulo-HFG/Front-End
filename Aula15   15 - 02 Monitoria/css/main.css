@@ -1,0 +1,6 @@
+.formulario,
+.form-item{
+  display: grid;
+  gap: 5px;
+  width: 300px;
+}
