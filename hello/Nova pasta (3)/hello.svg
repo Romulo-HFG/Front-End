@@ -1,0 +1,100 @@
+<svg fill="none" viewBox="   0" width="100%" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="160px">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+      
+      *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+div{
+  font-family: Cinzel Decorative, serif;
+ margin-top: 30px
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: transparent;
+}
+
+h2 {
+  display: flex;
+  color: transparent;
+  font-size: 80px;
+}
+
+h2 span {
+  animation: animate 3s linear infinite;
+  animation-delay: calc(0.1s * var(--i));
+}
+
+@keyframes animate {
+  0%
+  {
+    color: #fff;
+    filter:hue-rotate(0deg);
+    text-shadow: 0 0 10px #00b3ff,
+    0 0 5px #00b3ff,
+    0 0 10px #00b3ff,
+    0 0 20px #00b3ff,
+    0 0 30px #00b3ff,
+    0 0 50px #00b3ff,
+    0 0 100px #00b3ff,
+    0 0 1px #00b3ff;
+  }
+  30%,70%
+  { 
+    color: #fff;
+    filter:  hue-rotate(360deg);
+    text-shadow: 0 0 10px #00b3ff,
+    0 0 5px #00b3ff,
+    0 0 10px #00b3ff,
+    0 0 20px #00b3ff,
+    0 0 30px #00b3ff,
+    0 0 50px #00b3ff,
+  }
+  100%
+  {
+    color: transparent;
+    box-shadow: none;
+    filter: blur(2px) hue-rotate(0deg);
+  }
+}
+      </style>
+
+      <div>
+          <h2>
+    <span style="--i:1;">O</span>
+    <span style="--i:2;">L</span>
+    <span style="--i:3;">Á</span>
+    <span style="--i:4;">!</span>
+    <span style="--i:5;">!</span>
+    <span style="--i:6;">!</span>
+    <span style="--i:7;margin-left:2vw;">S</span>
+    <span style="--i:8;">O</span>
+    <span style="--i:9;">U</span>
+    <span style="--i:10;margin-left:5vw;">O</span>
+    <span style="--i:11;margin-left:5vw;">R</span>
+    <span style="--i:12;">Ô</span>
+    <span style="--i:13;">M</span>
+    <span style="--i:14;">U</span>
+    <span style="--i:15;">L</span>
+    <span style="--i:16;">O</span>
+    <span style="--i:17;margin-left:5vw;">H</span>
+    <span style="--i:18;">E</span>
+    <span style="--i:19;">N</span>
+    <span style="--i:20;">R</span>
+    <span style="--i:21;">I</span>
+    <span style="--i:22;">Q</span>
+    <span style="--i:23;">U</span>
+    <span style="--i:24;">E!</span>
+   
+  </h2>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
